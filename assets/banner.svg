@@ -1,10 +1,10 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#071A1D"/>
-      <stop offset="0.38" stop-color="#0E3438"/>
-      <stop offset="0.68" stop-color="#273E33"/>
-      <stop offset="1" stop-color="#65382E"/>
+      <stop offset="0.36" stop-color="#0B3A42"/>
+      <stop offset="0.68" stop-color="#2A4134"/>
+      <stop offset="1" stop-color="#6A352E"/>
     </linearGradient>
     <linearGradient id="auroraA" x1="115" y1="53" x2="1085" y2="337" gradientUnits="userSpaceOnUse">
       <stop stop-color="#80F3DC"/>
@@ -41,6 +41,10 @@
       .spark:nth-of-type(2n) { animation-delay: -1.2s; }
       .spark:nth-of-type(3n) { animation-delay: -2s; }
       .title { animation: titleGlow 4s ease-in-out infinite alternate; }
+      .scan { animation: scan 5.2s linear infinite; opacity: .22; }
+      .ring-a { animation: rotateA 18s linear infinite; transform-origin: 600px 210px; }
+      .ring-b { animation: rotateB 22s linear infinite; transform-origin: 600px 210px; }
+      .mono { animation: fadeRows 4s ease-in-out infinite alternate; }
       @keyframes driftA {
         from { stroke-dashoffset: 0; transform: translateX(-16px) translateY(8px); }
         to { stroke-dashoffset: -390; transform: translateX(18px) translateY(-10px); }
@@ -61,14 +65,28 @@
         from { filter: drop-shadow(0 0 4px rgba(128,243,220,.2)); }
         to { filter: drop-shadow(0 0 18px rgba(240,209,122,.45)); }
       }
+      @keyframes scan {
+        from { transform: translateY(-440px); }
+        to { transform: translateY(440px); }
+      }
+      @keyframes rotateA {
+        to { transform: rotate(360deg); }
+      }
+      @keyframes rotateB {
+        to { transform: rotate(-360deg); }
+      }
+      @keyframes fadeRows {
+        from { opacity: .48; }
+        to { opacity: .82; }
+      }
     </style>
   </defs>
 
-  <rect width="1200" height="420" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="30" fill="url(#bg)"/>
 
   <g class="grid">
-    <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200" stroke="white"/>
-    <path d="M100 0V420M200 0V420M300 0V420M400 0V420M500 0V420M600 0V420M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420" stroke="white"/>
+    <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200M0 420H1200" stroke="white"/>
+    <path d="M100 0V440M200 0V440M300 0V440M400 0V440M500 0V440M600 0V440M700 0V440M800 0V440M900 0V440M1000 0V440M1100 0V440" stroke="white"/>
   </g>
 
   <g filter="url(#glow)" opacity=".52">
@@ -102,8 +120,24 @@
     <circle class="spark" cx="963" cy="202" r="2.5" fill="#FF8B6B"/>
   </g>
 
+  <g class="ring-a" opacity=".28">
+    <ellipse cx="600" cy="210" rx="294" ry="86" stroke="#80F3DC" stroke-width="2" stroke-dasharray="10 16"/>
+  </g>
+  <g class="ring-b" opacity=".22">
+    <ellipse cx="600" cy="210" rx="352" ry="112" stroke="#F0D17A" stroke-width="2" stroke-dasharray="4 18"/>
+  </g>
+
+  <rect class="scan" x="0" y="0" width="1200" height="90" fill="url(#auroraA)"/>
+
   <g class="title" text-anchor="middle">
-    <text x="600" y="190" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="72" font-weight="850">Zhuanz</text>
-    <text x="600" y="235" fill="#DDEBE7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23" font-weight="560">AI  ·  Writing  ·  Research  ·  Automation</text>
+    <text x="600" y="184" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="74" font-weight="850">Zhuanz</text>
+    <text x="600" y="232" fill="#DDEBE7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23" font-weight="560">AI  ·  Writing  ·  Research  ·  Automation</text>
+  </g>
+
+  <g class="mono" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" fill="#DDEBE7" opacity=".62">
+    <text x="80" y="356">const idea = "messy";</text>
+    <text x="80" y="382">system.design(idea).ship();</text>
+    <text x="867" y="356">memory.write()</text>
+    <text x="867" y="382">next.step.clear()</text>
   </g>
 </svg>
