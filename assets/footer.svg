@@ -1,0 +1,83 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#071A1D"/>
+      <stop offset="0.5" stop-color="#0B3A42"/>
+      <stop offset="1" stop-color="#6A352E"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#80F3DC" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#80F3DC"/>
+      <stop offset="0.58" stop-color="#F0D17A"/>
+      <stop offset="1" stop-color="#FF8B6B" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <style>
+      .wave-a { animation: waveA 7s ease-in-out infinite alternate; }
+      .wave-b { animation: waveB 8.5s ease-in-out infinite alternate; }
+      .beam { animation: slide 5.5s linear infinite; }
+      .dot { animation: rise 5s ease-in-out infinite alternate; transform-origin: center; }
+      .dot:nth-of-type(2n) { animation-delay: -1.4s; animation-duration: 6.5s; }
+      .dot:nth-of-type(3n) { animation-delay: -2.6s; animation-duration: 7.4s; }
+      .word { animation: glow 4s ease-in-out infinite alternate; }
+      @keyframes waveA {
+        from { transform: translateX(-22px) translateY(8px); }
+        to { transform: translateX(22px) translateY(-8px); }
+      }
+      @keyframes waveB {
+        from { transform: translateX(24px) translateY(-6px); }
+        to { transform: translateX(-24px) translateY(6px); }
+      }
+      @keyframes slide {
+        from { transform: translateX(-1200px); opacity: .15; }
+        45% { opacity: .72; }
+        to { transform: translateX(1200px); opacity: .15; }
+      }
+      @keyframes rise {
+        from { transform: translateY(10px) scale(.82); opacity: .25; }
+        to { transform: translateY(-18px) scale(1.18); opacity: .9; }
+      }
+      @keyframes glow {
+        from { filter: drop-shadow(0 0 3px rgba(128,243,220,.18)); }
+        to { filter: drop-shadow(0 0 16px rgba(240,209,122,.42)); }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="26" fill="url(#bg)"/>
+
+  <g opacity=".14">
+    <path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200" stroke="#FFFFFF"/>
+    <path d="M150 0V260M300 0V260M450 0V260M600 0V260M750 0V260M900 0V260M1050 0V260" stroke="#FFFFFF"/>
+  </g>
+
+  <g filter="url(#blur)" opacity=".42">
+    <path class="wave-a" d="M-30 174C105 112 228 101 340 140C478 188 579 207 720 154C875 96 997 100 1230 166" stroke="#80F3DC" stroke-width="16" stroke-linecap="round"/>
+    <path class="wave-b" d="M-40 103C98 168 238 178 386 128C549 73 686 71 827 125C973 181 1080 171 1238 106" stroke="#FF8B6B" stroke-width="14" stroke-linecap="round"/>
+  </g>
+
+  <path class="wave-a" d="M-30 174C105 112 228 101 340 140C478 188 579 207 720 154C875 96 997 100 1230 166" stroke="#80F3DC" stroke-width="3" stroke-linecap="round"/>
+  <path class="wave-b" d="M-40 103C98 168 238 178 386 128C549 73 686 71 827 125C973 181 1080 171 1238 106" stroke="#FF8B6B" stroke-width="3" stroke-linecap="round"/>
+
+  <rect class="beam" x="0" y="124" width="1200" height="8" fill="url(#beam)"/>
+
+  <g opacity=".85">
+    <circle class="dot" cx="95" cy="74" r="3" fill="#80F3DC"/>
+    <circle class="dot" cx="205" cy="206" r="2.8" fill="#F0D17A"/>
+    <circle class="dot" cx="323" cy="64" r="3.4" fill="#FFFFFF"/>
+    <circle class="dot" cx="438" cy="198" r="2.7" fill="#FF8B6B"/>
+    <circle class="dot" cx="552" cy="82" r="3.1" fill="#80F3DC"/>
+    <circle class="dot" cx="676" cy="210" r="3.3" fill="#F0D17A"/>
+    <circle class="dot" cx="793" cy="62" r="2.8" fill="#FFFFFF"/>
+    <circle class="dot" cx="922" cy="202" r="3" fill="#FF8B6B"/>
+    <circle class="dot" cx="1046" cy="78" r="3.2" fill="#80F3DC"/>
+    <circle class="dot" cx="1130" cy="183" r="2.6" fill="#F0D17A"/>
+  </g>
+
+  <g class="word" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="600" y="119" fill="#FFFFFF" font-size="30" font-weight="760">keep building quietly useful systems</text>
+    <text x="600" y="156" fill="#DDEBE7" font-size="16" font-weight="520">curiosity in · structure out · momentum forward</text>
+  </g>
+</svg>
