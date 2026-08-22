@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nick&fontSize=70&fontColor=00F5D4&animation=twinkling&fontAlignY=40&desc=AI%20Workflow%20Builder%20%C2%B7%20Research%20Tool%20Maker%20%C2%B7%20Writing-System%20Tinkerer&descAlignY=62&descSize=17&stroke=FF2E88&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nick&fontSize=70&fontColor=00F5D4&animation=twinkling&fontAlignY=40&desc=Agentic%20Research%20%C2%B7%20LLMs%20%C2%B7%20VLA%20%2F%20Embodied%20AI&descAlignY=62&descSize=17&stroke=FF2E88&strokeWidth=2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=130&lines=%24+whoami;%3E+messy+idea+%E2%86%92+clear+structure+%E2%86%92+useful+system;%3E+stay+curious+%C2%B7+keep+memory+in+files+%C2%B7+make+it+useful;%3E+building+calm+systems+for+noisy+research+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=130&lines=%24+whoami;%3E+agentic+research+%C2%B7+LLMs+%C2%B7+VLA+%26+embodied+AI;%3E+messy+idea+%E2%86%92+clear+structure+%E2%86%92+useful+system;%3E+stay+curious+%C2%B7+keep+memory+in+files+%C2%B7+make+it+useful" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=1692775560&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
   <a href="https://github.com/1692775560?tab=followers"><img src="https://img.shields.io/github/followers/1692775560?label=Followers&style=for-the-badge&color=00c9a7&labelColor=1a1a2e" alt="followers"/></a>
   <a href="https://github.com/1692775560?tab=repositories"><img src="https://img.shields.io/github/stars/1692775560?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=1a1a2e" alt="stars"/></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Research-FF2E88?style=for-the-badge&labelColor=1a1a2e" alt="focus"/>
+  <img src="https://img.shields.io/badge/Research-Agentic%20Science%20%C2%B7%20LLM%20%C2%B7%20VLA-FF2E88?style=for-the-badge&labelColor=1a1a2e" alt="research"/>
 </p>
 
 </div>
@@ -23,15 +23,17 @@
 
 ```yaml
 name: Nick
-focus: [AI Workflows, Research Tooling, Writing Systems]
+research: [AI Agents for Science, LLMs, VLA & Embodied AI]
+focus: [Agentic Workflows, Research Tooling, Writing Systems]
 currently_building: Mimir — a workbench for the whole research cycle
 philosophy: stay curious · keep memory in files · make it useful
 ```
 
-- 🔭 Building **agents, prompts and tool-use pipelines** that turn messy ideas into usable systems
-- 📄 Making **research tools** — papers, figures, experiments, GPU orchestration
+- 🔬 Working on **agentic scientific research** — agents that read papers, run experiments and close the loop
+- 🧠 Into **LLMs** — agents, prompts, tool use, reasoning
+- 🦾 Exploring **VLA models & embodied AI** — from perception and language to action
+- 🛠️ Building **research tools** that turn messy ideas into usable systems
 - ✍️ Tinkering with **writing systems** for long-form creation
-- ⚙️ Automating the boring parts of daily work with small, sharp scripts
 
 <br clear="right"/>
 
