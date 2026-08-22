@@ -82,7 +82,7 @@ philosophy: stay curious · keep memory in files · make it useful
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=1692775560&theme=neon-dark&hide_border=true&background=0d1117&ring=FF2E88&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub streak"/>
+<img src="https://raw.githubusercontent.com/1692775560/1692775560/main/profile-summary-card-output/2077/3-stats.svg" width="49%" alt="contribution stats"/>
 
 <br><br>
 
