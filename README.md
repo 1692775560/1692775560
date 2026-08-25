@@ -98,8 +98,6 @@ philosophy: stay curious · keep memory in files · make it useful
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1692775560&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5D4&line=FF2E88&point=ffffff&area=true" width="100%" alt="activity graph"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1692775560/1692775560/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1692775560/1692775560/output/github-contribution-grid-snake.svg"/>
