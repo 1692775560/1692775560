@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF8A00,50:FF2E88,100:FFC837&height=230&section=header&text=NICK&fontSize=90&fontColor=FFFDF5&animation=fadeIn&fontAlignY=42&desc=Agentic%20Research%20%C2%B7%20LLMs%20%C2%B7%20VLA%20%2F%20Embodied%20AI&descAlignY=65&descSize=19&descColor=FFFDF5" width="100%"/>
+<img src="./assets/cover.svg" alt="The Agentic Science Review — cover" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=FF8A00&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=130&lines=%24+whoami;%3E+agentic+research+%C2%B7+LLMs+%C2%B7+VLA+%26+embodied+AI;%3E+messy+idea+%E2%86%92+clear+structure+%E2%86%92+useful+system;%3E+stay+curious+%C2%B7+keep+memory+in+files+%C2%B7+make+it+useful" alt="Typing SVG" />
@@ -12,6 +12,8 @@
   <a href="https://github.com/1692775560?tab=repositories"><img src="https://img.shields.io/github/stars/1692775560?label=TOTAL%20STARS&style=for-the-badge&color=FFC837&labelColor=4d3a00" alt="stars"/></a>
   <img src="https://img.shields.io/badge/RESEARCH-AGENTIC%20SCIENCE%20%C2%B7%20LLM%20%C2%B7%20VLA-FF6B35?style=for-the-badge&labelColor=3a1a08" alt="research"/>
 </p>
+
+<samp><b>IN THIS ISSUE</b> — 01 ABOUT · 02 SELECTED WORK · 03 TOOLBOX · 04 NUMBERS · 05 FOOTPRINT</samp>
 
 </div>
 
@@ -36,6 +38,9 @@ philosophy: stay curious · keep memory in files · make it useful
 - 🦾 Exploring **VLA models & embodied AI** — from perception and language to action
 - 🛠️ Building **research tools** that turn messy ideas into usable systems
 - ✍️ Tinkering with **writing systems** for long-form creation
+
+> ### “messy idea → clear structure → useful system”
+> — *the editorial line of this page*
 
 <br clear="right"/>
 
@@ -127,6 +132,10 @@ philosophy: stay curious · keep memory in files · make it useful
 ```
 
 <i>building calm systems for noisy creative and research work</i>
+
+<br>
+
+<samp>THE AGENTIC SCIENCE REVIEW · VOL. 01 · SET IN MARKDOWN &amp; SVG · PRINTED ON GITHUB</samp>
 
 </div>
 
