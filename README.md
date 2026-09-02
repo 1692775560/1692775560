@@ -13,9 +13,9 @@
 
 </div>
 
----
+<br>
 
-# SECTION A — ABOUT THE EDITOR
+<img src="./assets/sec-a.svg" alt="Section A — About the Editor" width="100%"/>
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="the editor at work"/>
 
@@ -38,9 +38,7 @@ for long-form creation.
 
 <br clear="right"/>
 
----
-
-# SECTION B — THE DIRECTORY
+<img src="./assets/sec-b.svg" alt="Section B — The Directory" width="100%"/>
 
 <samp>SELECTED WORK · FILED UNDER: AGENTS / RESEARCH / TOOLING / NOVELS</samp>
 
@@ -99,9 +97,7 @@ for long-form creation.
   </tr>
 </table>
 
----
-
-# SECTION C — TOOLS OF THE TRADE
+<img src="./assets/sec-c.svg" alt="Section C — Tools of the Trade" width="100%"/>
 
 <div align="center">
 
@@ -111,9 +107,7 @@ for long-form creation.
 
 </div>
 
----
-
-# SECTION D — THE NUMBERS DESK
+<img src="./assets/sec-d.svg" alt="Section D — The Numbers Desk" width="100%"/>
 
 <div align="center">
 
@@ -137,9 +131,7 @@ for long-form creation.
 
 </div>
 
----
-
-# SECTION E — THE DAILY PUZZLE
+<img src="./assets/sec-e.svg" alt="Section E — The Daily Puzzle" width="100%"/>
 
 <div align="center">
 
