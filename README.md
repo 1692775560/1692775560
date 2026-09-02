@@ -44,20 +44,60 @@ for long-form creation.
 
 <samp>SELECTED WORK · FILED UNDER: AGENTS / RESEARCH / TOOLING / NOVELS</samp>
 
-<div align="center">
+> ### LEAD STORY — [deepseek_project](https://github.com/1692775560/deepseek_project) &nbsp; ![stars](https://img.shields.io/github/stars/1692775560/deepseek_project?style=flat-square&color=8A2B12&labelColor=6B655A)
+> An AI-powered WeChat assistant built on DeepSeek — the most-starred project on this desk.
 
-| № | Project | Description | Stars |
-|:---:|:---:|---|:---:|
-| 01 | 🤖 [**deepseek_project**](https://github.com/1692775560/deepseek_project) | AI-powered WeChat assistant built on DeepSeek | ![stars](https://img.shields.io/github/stars/1692775560/deepseek_project?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 02 | 📚 [**PaperClaw**](https://github.com/1692775560/PaperClaw) | High-agency AI automation system for academic research — LLM decision engine + skill plugins + memory | ![stars](https://img.shields.io/github/stars/1692775560/PaperClaw?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 03 | 🔬 [**Mimir**](https://github.com/1692775560/Mimir) | All-in-one research workbench: LaTeX live-compile, arXiv management, experiment tracking, GPU SSH orchestration | ![stars](https://img.shields.io/github/stars/1692775560/Mimir?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 04 | 🔌 [**API-2-MCP**](https://github.com/1692775560/API-2-MCP) | Production-ready MCP servers from OpenAPI specs — turn REST APIs into tools for Claude Code & Codex | ![stars](https://img.shields.io/github/stars/1692775560/API-2-MCP?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 05 | 🧬 [**AMU**](https://github.com/1692775560/AMU) | Attention-based mRNA transformer predicting melanoma immunotherapy response | ![stars](https://img.shields.io/github/stars/1692775560/AMU?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 06 | 📈 [**Q_System**](https://github.com/1692775560/Q_System) | AI quantitative trading system powered by DeepSeek & Gate.io | ![stars](https://img.shields.io/github/stars/1692775560/Q_System?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 07 | 🔍 [**eko-agent-github**](https://github.com/1692775560/eko-agent-github) | Discover trending GitHub repos and *why* they're popular, powered by Eko AI | ![stars](https://img.shields.io/github/stars/1692775560/eko-agent-github?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 08 | ✍️ [**fanqie-novel-skills**](https://github.com/1692775560/fanqie-novel-skills) | Category-aware agent skills for Chinese web-novel creation | ![stars](https://img.shields.io/github/stars/1692775560/fanqie-novel-skills?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+<br>
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>02 · <a href="https://github.com/1692775560/PaperClaw">PaperClaw</a></b>
+      <img src="https://img.shields.io/github/stars/1692775560/PaperClaw?style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/><br>
+      High-agency AI automation for academic research — LLM decision engine + skill plugins + memory.
+    </td>
+    <td width="50%" valign="top">
+      <b>03 · <a href="https://github.com/1692775560/Mimir">Mimir</a></b>
+      <img src="https://img.shields.io/github/stars/1692775560/Mimir?style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/><br>
+      All-in-one research workbench: LaTeX live-compile, arXiv management, experiment tracking, GPU SSH orchestration.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>04 · <a href="https://github.com/1692775560/API-2-MCP">API-2-MCP</a></b>
+      <img src="https://img.shields.io/github/stars/1692775560/API-2-MCP?style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/><br>
+      Production-ready MCP servers from OpenAPI specs — turn REST APIs into tools for Claude Code &amp; Codex.
+    </td>
+    <td width="50%" valign="top">
+      <b>05 · <a href="https://github.com/1692775560/AMU">AMU</a></b>
+      <img src="https://img.shields.io/github/stars/1692775560/AMU?style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/><br>
+      Attention-based mRNA transformer predicting melanoma immunotherapy response.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>06 · <a href="https://github.com/1692775560/Q_System">Q_System</a></b>
+      <img src="https://img.shields.io/github/stars/1692775560/Q_System?style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/><br>
+      AI quantitative trading system powered by DeepSeek &amp; Gate.io.
+    </td>
+    <td width="50%" valign="top">
+      <b>07 · <a href="https://github.com/1692775560/eko-agent-github">eko-agent-github</a></b>
+      <img src="https://img.shields.io/github/stars/1692775560/eko-agent-github?style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/><br>
+      Discover trending GitHub repos and <i>why</i> they're popular, powered by Eko AI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>08 · <a href="https://github.com/1692775560/fanqie-novel-skills">fanqie-novel-skills</a></b>
+      <img src="https://img.shields.io/github/stars/1692775560/fanqie-novel-skills?style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/><br>
+      Category-aware agent skills for Chinese web-novel creation.
+    </td>
+    <td width="50%" valign="top">
+      <b>… · <a href="https://github.com/1692775560?tab=repositories">more from the archives</a></b><br>
+      The full catalogue, filed at the repositories desk.
+    </td>
+  </tr>
+</table>
 
 ---
 
