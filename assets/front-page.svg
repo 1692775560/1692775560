@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#F6F1E3"/>
+
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#1A1A1A">
+    <!-- top dateline row -->
+    <rect x="50" y="38" width="1100" height="2" fill="#1A1A1A"/>
+    <text x="50" y="72" font-size="20" letter-spacing="2">VOL. 01 · NO. 1335</text>
+    <text x="600" y="72" font-size="20" letter-spacing="2" text-anchor="middle">GITHUB EDITION</text>
+    <text x="1150" y="72" font-size="20" letter-spacing="2" text-anchor="end">PRICE: ONE STAR</text>
+    <rect x="50" y="86" width="1100" height="2" fill="#1A1A1A"/>
+
+    <!-- nameplate -->
+    <text x="600" y="205" font-size="88" font-weight="bold" text-anchor="middle" letter-spacing="2">THE DAILY COMMIT</text>
+
+    <!-- double rule -->
+    <rect x="50" y="240" width="1100" height="6" fill="#1A1A1A"/>
+    <rect x="50" y="252" width="1100" height="2" fill="#1A1A1A"/>
+
+    <!-- headline -->
+    <text x="600" y="345" font-size="46" font-weight="bold" text-anchor="middle">NICK BUILDS AGENTS THAT DO SCIENCE</text>
+    <text x="600" y="402" font-size="24" font-style="italic" text-anchor="middle" fill="#44403A">LLMs · VLA · embodied AI — research tooling for the whole cycle</text>
+
+    <!-- standfirst quote -->
+    <text x="600" y="470" font-size="28" font-style="italic" text-anchor="middle">“stay curious · keep memory in files · make it useful”</text>
+    <text x="600" y="505" font-size="18" text-anchor="middle" fill="#44403A" letter-spacing="3">— THE EDITORIAL LINE OF THIS PAGE —</text>
+
+    <rect x="50" y="532" width="1100" height="2" fill="#1A1A1A"/>
+  </g>
+</svg>
