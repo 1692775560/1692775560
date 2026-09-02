@@ -1,39 +1,79 @@
 <div align="center">
-  <img src="./assets/front-page.svg" alt="The Daily Commit — front page" width="100%"/>
+
+<img src="./assets/front-page.svg" alt="The Daily Commit — front page" width="100%"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=1692775560&label=CIRCULATION&color=1A1A1A&style=flat-square" alt="profile views"/>
+  <a href="https://github.com/1692775560?tab=followers"><img src="https://img.shields.io/github/followers/1692775560?label=SUBSCRIBERS&style=flat-square&color=1A1A1A&labelColor=6B655A" alt="followers"/></a>
+  <a href="https://github.com/1692775560?tab=repositories"><img src="https://img.shields.io/github/stars/1692775560?label=STARS%20COLLECTED&style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/></a>
+  <img src="https://img.shields.io/badge/BEAT-AGENTIC%20SCIENCE%20%C2%B7%20LLM%20%C2%B7%20VLA-8A2B12?style=flat-square&labelColor=6B655A" alt="research beat"/>
+</p>
+
+<samp><b>IN TODAY'S PAPER</b> — A. ABOUT THE EDITOR · B. THE DIRECTORY · C. TOOLS OF THE TRADE · D. THE NUMBERS DESK · E. THE DAILY PUZZLE</samp>
+
 </div>
-
-<br>
-
-## Section A — About the Editor
-
-**GITHUB** — Nick works on **agentic scientific research**: agents that read papers, run experiments and close the loop. The desk follows **LLMs** (agents, prompts, tool use, reasoning) and **VLA models & embodied AI** — from perception and language to action. On the side, research tools that turn messy ideas into usable systems.
-
-> “messy idea → clear structure → useful system”
 
 ---
 
-## Section B — Selected Work
+# SECTION A — ABOUT THE EDITOR
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="the editor at work"/>
+
+```yaml
+name: Nick
+research: [AI Agents for Science, LLMs, VLA & Embodied AI]
+focus: [Agentic Workflows, Research Tooling, Writing Systems]
+currently_building: Mimir — a workbench for the whole research cycle
+```
+
+**GITHUB, Sept. 2** — The editor of this page works on **agentic scientific research**:
+agents that read papers, run experiments and close the loop. The desk follows
+**LLMs** (agents, prompts, tool use, reasoning) and **VLA models & embodied AI** —
+from perception and language to action. On the side, the editor builds research
+tools that turn messy ideas into usable systems, and tinkers with writing systems
+for long-form creation.
+
+> ### “messy idea → clear structure → useful system”
+> — *from the editor's desk*
+
+<br clear="right"/>
+
+---
+
+# SECTION B — THE DIRECTORY
+
+<samp>SELECTED WORK · FILED UNDER: AGENTS / RESEARCH / TOOLING / NOVELS</samp>
+
+<div align="center">
 
 | № | Project | Description | Stars |
 |:---:|:---:|---|:---:|
-| 01 | [**deepseek_project**](https://github.com/1692775560/deepseek_project) | AI-powered WeChat assistant built on DeepSeek | ![stars](https://img.shields.io/github/stars/1692775560/deepseek_project?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 02 | [**PaperClaw**](https://github.com/1692775560/PaperClaw) | High-agency AI automation for academic research — LLM decision engine + skill plugins + memory | ![stars](https://img.shields.io/github/stars/1692775560/PaperClaw?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 03 | [**Mimir**](https://github.com/1692775560/Mimir) | All-in-one research workbench: LaTeX live-compile, arXiv management, experiment tracking, GPU orchestration | ![stars](https://img.shields.io/github/stars/1692775560/Mimir?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 04 | [**API-2-MCP**](https://github.com/1692775560/API-2-MCP) | Production-ready MCP servers from OpenAPI specs | ![stars](https://img.shields.io/github/stars/1692775560/API-2-MCP?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 05 | [**AMU**](https://github.com/1692775560/AMU) | Attention-based mRNA transformer for melanoma immunotherapy response | ![stars](https://img.shields.io/github/stars/1692775560/AMU?style=flat-square&color=1A1A1A&labelColor=6B655A) |
-| 06 | [**Q_System**](https://github.com/1692775560/Q_System) | AI quantitative trading system powered by DeepSeek & Gate.io | ![stars](https://img.shields.io/github/stars/1692775560/Q_System?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+| 01 | 🤖 [**deepseek_project**](https://github.com/1692775560/deepseek_project) | AI-powered WeChat assistant built on DeepSeek | ![stars](https://img.shields.io/github/stars/1692775560/deepseek_project?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+| 02 | 📚 [**PaperClaw**](https://github.com/1692775560/PaperClaw) | High-agency AI automation system for academic research — LLM decision engine + skill plugins + memory | ![stars](https://img.shields.io/github/stars/1692775560/PaperClaw?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+| 03 | 🔬 [**Mimir**](https://github.com/1692775560/Mimir) | All-in-one research workbench: LaTeX live-compile, arXiv management, experiment tracking, GPU SSH orchestration | ![stars](https://img.shields.io/github/stars/1692775560/Mimir?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+| 04 | 🔌 [**API-2-MCP**](https://github.com/1692775560/API-2-MCP) | Production-ready MCP servers from OpenAPI specs — turn REST APIs into tools for Claude Code & Codex | ![stars](https://img.shields.io/github/stars/1692775560/API-2-MCP?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+| 05 | 🧬 [**AMU**](https://github.com/1692775560/AMU) | Attention-based mRNA transformer predicting melanoma immunotherapy response | ![stars](https://img.shields.io/github/stars/1692775560/AMU?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+| 06 | 📈 [**Q_System**](https://github.com/1692775560/Q_System) | AI quantitative trading system powered by DeepSeek & Gate.io | ![stars](https://img.shields.io/github/stars/1692775560/Q_System?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+| 07 | 🔍 [**eko-agent-github**](https://github.com/1692775560/eko-agent-github) | Discover trending GitHub repos and *why* they're popular, powered by Eko AI | ![stars](https://img.shields.io/github/stars/1692775560/eko-agent-github?style=flat-square&color=1A1A1A&labelColor=6B655A) |
+| 08 | ✍️ [**fanqie-novel-skills**](https://github.com/1692775560/fanqie-novel-skills) | Category-aware agent skills for Chinese web-novel creation | ![stars](https://img.shields.io/github/stars/1692775560/fanqie-novel-skills?style=flat-square&color=1A1A1A&labelColor=6B655A) |
 
----
-
-## Section C — Tools of the Trade
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,html,css,git,github,linux,docker,latex,md&perline=12" />
 </div>
 
 ---
 
-## Section D — The Numbers Desk
+# SECTION C — TOOLS OF THE TRADE
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,html,css,react,vite,git,github,linux,docker,latex,md,vscode&perline=8" />
+</a>
+
+</div>
+
+---
+
+# SECTION D — THE NUMBERS DESK
 
 <div align="center">
 
@@ -41,10 +81,17 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/1692775560/1692775560/main/profile-summary-card-output/gruvbox/3-stats.svg" width="49%" alt="contribution stats"/>
-<img src="https://raw.githubusercontent.com/1692775560/1692775560/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" width="49%" alt="most commit language"/>
+<img src="https://raw.githubusercontent.com/1692775560/1692775560/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="32.6%" alt="repos per language"/>
+<img src="https://raw.githubusercontent.com/1692775560/1692775560/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" width="32.6%" alt="most commit language"/>
+<img src="https://raw.githubusercontent.com/1692775560/1692775560/main/profile-summary-card-output/gruvbox/4-productive-time.svg" width="32.6%" alt="productive time"/>
 
 <br><br>
+
+<img src="https://raw.githubusercontent.com/1692775560/1692775560/main/profile-summary-card-output/gruvbox/3-stats.svg" width="49%" alt="contribution stats"/>
+
+<br><br>
+
+<samp><b>MARKET CHART</b> — STAR HISTORY, AS REPORTED BY THE EXCHANGE</samp>
 
 <img src="https://api.star-history.com/svg?repos=1692775560/deepseek_project,1692775560/PaperClaw,1692775560/Mimir&type=Date&legend=top-left" width="70%" alt="star history"/>
 
@@ -52,7 +99,7 @@
 
 ---
 
-## Section E — The Daily Puzzle
+# SECTION E — THE DAILY PUZZLE
 
 <div align="center">
 
@@ -61,6 +108,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1692775560/1692775560/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/1692775560/1692775560/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+<samp>OUR RESIDENT SNAKE EATS ONE COMMIT PER DAY · SOLUTION IN TOMORROW'S EDITION</samp>
 
 </div>
 
