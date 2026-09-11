@@ -7,6 +7,7 @@
   <a href="https://github.com/1692775560?tab=followers"><img src="https://img.shields.io/github/followers/1692775560?label=SUBSCRIBERS&style=flat-square&color=1A1A1A&labelColor=6B655A" alt="followers"/></a>
   <a href="https://github.com/1692775560?tab=repositories"><img src="https://img.shields.io/github/stars/1692775560?label=STARS%20COLLECTED&style=flat-square&color=1A1A1A&labelColor=6B655A" alt="stars"/></a>
   <img src="https://img.shields.io/badge/BEAT-AGENTIC%20SCIENCE%20%C2%B7%20LLM%20%C2%B7%20VLA-8A2B12?style=flat-square&labelColor=6B655A" alt="research beat"/>
+  <a href="mailto:1692775560@qq.com"><img src="https://img.shields.io/badge/WRITE%20TO%20THE%20EDITOR-1692775560%40qq.com-1A1A1A?style=flat-square&labelColor=6B655A" alt="email"/></a>
 </p>
 
 <samp><b>IN TODAY'S PAPER</b> — A. ABOUT THE EDITOR · B. THE DIRECTORY · C. TOOLS OF THE TRADE · D. THE NUMBERS DESK · E. THE DAILY PUZZLE</samp>
